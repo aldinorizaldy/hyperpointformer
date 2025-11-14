@@ -6,5 +6,5 @@ This repository implements HyperPointFormer, a fully 3D deep learning framework 
 Unlike most approaches that rasterize 3D data into 2D, our method directly processes raw 3D point clouds and employs a dual-branch Transformer to jointly learn geometric and spectral features. We enhance fusion with a cross-attention mechanism that integrates features from multiple modalities across scales.
 
 Cite paper here:
-> A. Rizaldy, R. Gloaguen, F. E. Fassnacht and P. Ghamisi, "HyperPointFormer: Multimodal Fusion in 3-D Space With Dual-Branch Cross-Attention Transformers," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 21254-21274, 2025, https://doi: 10.1109/JSTARS.2025.3595648
+> A. Rizaldy, R. Gloaguen, F. E. Fassnacht and P. Ghamisi, "HyperPointFormer: Multimodal Fusion in 3-D Space With Dual-Branch Cross-Attention Transformers," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 21254-21274, 2025,https://doi:10.1109/JSTARS.2025.3595648
 
