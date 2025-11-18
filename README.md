@@ -28,7 +28,7 @@ Key features:
 
 ## ⚙️ Installation
 
-HyperPointFormer follows the installation approach of [`Pointnet_Pointnet2_pytorch`](https://github.com/yanx27/Pointnet_Pointnet2_pytorch/) with additional [`DGL library`]((https://www.dgl.ai/)).
+HyperPointFormer follows the installation approach of [`Pointnet_Pointnet2_pytorch`](https://github.com/yanx27/Pointnet_Pointnet2_pytorch/) with additional [`DGL library`](https://www.dgl.ai/).
 
 ## ⚙️ Training and Testing
 ```
