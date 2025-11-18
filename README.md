@@ -26,8 +26,6 @@ Key features:
 
 ---
 
-<img width="3000" height="1687" alt="architecture" src="https://github.com/user-attachments/assets/16e5c637-26ae-42a3-935d-7e7b15315434" />
-
 ## ⚙️ Installation
 
 HyperPointFormer follows the installation approach of  
@@ -35,8 +33,10 @@ HyperPointFormer follows the installation approach of
 with additional [`DGL library`] (https://www.dgl.ai/).
 
 ## ⚙️ Training and Testing
-> python train_semseg.py
-> python test_semseg.py
+```
+python train_semseg.py
+python test_semseg.py
+```
 
 Cite paper here:
 > A. Rizaldy, R. Gloaguen, F. E. Fassnacht and P. Ghamisi, "HyperPointFormer: Multimodal Fusion in 3-D Space With Dual-Branch Cross-Attention Transformers," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 21254-21274, 2025, https://doi.org/10.1109/JSTARS.2025.3595648
